@@ -1,0 +1,15 @@
+{
+  "Dependencies": {
+    "cypress": "^13.9.0"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser=chrome"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "cypress-mochawesome-reporter": "^3.6.1"
+  }
+
+
+}
