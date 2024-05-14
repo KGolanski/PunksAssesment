@@ -12,11 +12,11 @@ Plesae, after fire up test -> handle with captcha manually, then wait for 'Sign 
 
 1. Clone this repository
 2. Run `npm install`
-3. Run `npm run cy:open`
+3. Run `npm run cypress:open`
 4. Close cypress -> 'CTR+C'
-<!-- 5. Run particular sripts from `package.json` using `npm run`<p>
+5. Run particular sripts from `package.json` using `npm run`<p>
   `cy:open` - will open cypress with GUI<br>
-  `cy:run`  - will start hedaless run for all test specs 
+  <!-- `cy:run`  - will start hedaless run for all test specs 
 
-   Also headless run generates *.html reports. Click on `Reports` folder in your IDE and open in sysem file explorer. Move into `html` folder and click `index.html` -->
-5. Enjoy it!
+   Also headless run generates *.html reports. Click on `Reports` folder in your IDE and open in sysem file explorer. Move into `html` folder and click `index.html`  -->
+6. Enjoy it!
